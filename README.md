@@ -1,6 +1,8 @@
 pkm2pkx
 =======
 
+Note: This is extremely outdated and doesn't transfer 100% properly.
+
 5th Gen .pkm Converter to 6th Gen .pkx format.
 
 Instructions:
